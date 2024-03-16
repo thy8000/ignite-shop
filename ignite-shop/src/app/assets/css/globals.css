@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import './pages/home.css';
+
 * {
     @apply m-0 p-0;
 }
